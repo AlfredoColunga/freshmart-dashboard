@@ -1,0 +1,6 @@
+[theme]
+backgroundColor="#e6e6e6"
+primaryColor = "#14b54d"
+
+[theme.sidebar]
+backgroundColor = "#dbdbdbff"
